@@ -59,7 +59,7 @@ var instructor = {
 
 /* Write an ES2015 Version */
 
-//instructor.sayBye() returns 'Colt says bye!'
+//instructor2.sayBye() returns 'Colt says bye!'
 const instructor2 = {
     firstName: 'Colt',
     sayHi() {
@@ -82,6 +82,8 @@ should accept 3 arguments:
     d.bark()
     'Woooof!'
 */
+
+/* Write an ES2015 Version */
 
 function createAnimal(species, verb, noise) {
     return {
